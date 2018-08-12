@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Data;
+using System;
+using System.Linq;
 
 namespace GetNews
 {
@@ -6,7 +8,7 @@ namespace GetNews
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Microsoft.Skills.Text.NamedEntityRecognitionSkill
         }
     }
 }

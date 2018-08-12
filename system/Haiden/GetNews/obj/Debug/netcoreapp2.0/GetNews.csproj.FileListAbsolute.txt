@@ -1,0 +1,14 @@
+E:\Drive\Desenvolvimento\haiden\system\Haiden\GetNews\bin\Debug\netcoreapp2.0\GetNews.deps.json
+E:\Drive\Desenvolvimento\haiden\system\Haiden\GetNews\bin\Debug\netcoreapp2.0\GetNews.runtimeconfig.json
+E:\Drive\Desenvolvimento\haiden\system\Haiden\GetNews\bin\Debug\netcoreapp2.0\GetNews.runtimeconfig.dev.json
+E:\Drive\Desenvolvimento\haiden\system\Haiden\GetNews\bin\Debug\netcoreapp2.0\GetNews.dll
+E:\Drive\Desenvolvimento\haiden\system\Haiden\GetNews\bin\Debug\netcoreapp2.0\GetNews.pdb
+E:\Drive\Desenvolvimento\haiden\system\Haiden\GetNews\obj\Debug\netcoreapp2.0\GetNews.csprojAssemblyReference.cache
+E:\Drive\Desenvolvimento\haiden\system\Haiden\GetNews\obj\Debug\netcoreapp2.0\GetNews.csproj.CoreCompileInputs.cache
+E:\Drive\Desenvolvimento\haiden\system\Haiden\GetNews\obj\Debug\netcoreapp2.0\GetNews.AssemblyInfoInputs.cache
+E:\Drive\Desenvolvimento\haiden\system\Haiden\GetNews\obj\Debug\netcoreapp2.0\GetNews.AssemblyInfo.cs
+E:\Drive\Desenvolvimento\haiden\system\Haiden\GetNews\obj\Debug\netcoreapp2.0\GetNews.dll
+E:\Drive\Desenvolvimento\haiden\system\Haiden\GetNews\obj\Debug\netcoreapp2.0\GetNews.pdb
+E:\Drive\Desenvolvimento\haiden\system\Haiden\GetNews\bin\Debug\netcoreapp2.0\Data.dll
+E:\Drive\Desenvolvimento\haiden\system\Haiden\GetNews\bin\Debug\netcoreapp2.0\Data.pdb
+E:\Drive\Desenvolvimento\haiden\system\Haiden\GetNews\obj\Debug\netcoreapp2.0\GetNews.csproj.CopyComplete
