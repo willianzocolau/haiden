@@ -1,0 +1,11 @@
+E:\Drive\Desenvolvimento\haiden\system\Haiden\Data\bin\Debug\netcoreapp2.0\Data.deps.json
+E:\Drive\Desenvolvimento\haiden\system\Haiden\Data\bin\Debug\netcoreapp2.0\Data.dll
+E:\Drive\Desenvolvimento\haiden\system\Haiden\Data\obj\Debug\netcoreapp2.0\Data.csprojAssemblyReference.cache
+E:\Drive\Desenvolvimento\haiden\system\Haiden\Data\obj\Debug\netcoreapp2.0\Data.csproj.CoreCompileInputs.cache
+E:\Drive\Desenvolvimento\haiden\system\Haiden\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfoInputs.cache
+E:\Drive\Desenvolvimento\haiden\system\Haiden\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfo.cs
+E:\Drive\Desenvolvimento\haiden\system\Haiden\Data\bin\Debug\netcoreapp2.0\Data.runtimeconfig.json
+E:\Drive\Desenvolvimento\haiden\system\Haiden\Data\bin\Debug\netcoreapp2.0\Data.runtimeconfig.dev.json
+E:\Drive\Desenvolvimento\haiden\system\Haiden\Data\bin\Debug\netcoreapp2.0\Data.pdb
+E:\Drive\Desenvolvimento\haiden\system\Haiden\Data\obj\Debug\netcoreapp2.0\Data.dll
+E:\Drive\Desenvolvimento\haiden\system\Haiden\Data\obj\Debug\netcoreapp2.0\Data.pdb
